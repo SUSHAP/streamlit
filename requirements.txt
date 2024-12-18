@@ -1,6 +1,5 @@
 rdkit==2024.3.6
 streamlit==1.41.1
-tenacity==9.0.0
 libxrender1
 
 
