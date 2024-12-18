@@ -41,7 +41,6 @@ protobuf==5.29.1
 psutil==6.1.0
 pure_eval==0.2.3
 pyarrow==18.1.0
-pydeck==0.9.1
 pywin32==308
 pyzmq==26.2.0
 rdkit==2024.3.6
